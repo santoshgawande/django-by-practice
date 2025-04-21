@@ -1,1 +1,5 @@
 myenv/
+# Exclude the cache directory
+__pycache__/
+# Exclude all .pyc files
+*.pyc
